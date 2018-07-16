@@ -1,0 +1,65 @@
+
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Tour Guid</string>
+
+    <string name="category_tourist">Tourist Attraction</string>
+
+    <string name="category_fashion">Fashion</string>
+
+    <string name="category_park">Park</string>
+
+    <string name="category_restaurant">Restaurant</string>
+
+    <!-- Fashion -->
+    <string name="tara">Tara</string>
+    <string name="armor_lux">Armor-Lux</string>
+    <string name="ami">AMI</string>
+    <string name="charvet_place_vendome">Charvet Place Vendome</string>
+    <string name="coco_chanel">Coco Chanel</string>
+
+    <string name="comptoir_des_cotonniers">Comptoir Des Cotonniers</string>
+    <string name="hermes">Hermes</string>
+    <string name="louis_vuitton">Louis Vuitton </string>
+    <string name="a_p_c">A.P.C</string>
+    <string name="Pigalle">Pigalle</string>
+
+    <!-- Restaurant -->
+    <string name="thoumieux">Thoumieux</string>
+    <string name="huitrerie_regis">Huitrerie Regis</string>
+    <string name="l_astrance">L_Astrance</string>
+    <string name="le_stella">Le Stella</string>
+    <string name="les_tablettes">Les Tablettes</string>
+    <string name="macéo">Macéo</string>
+    <string name="le_meurice">Le Meurice</string>
+    <string name="spring">Spring</string>
+    <string name="yam_tcha">Yam Tcha</string>
+    <string name="ze_kitchen_galerie">Ze Kitchen Galerie</string>
+
+    <!-- Touristic Attraction -->
+
+    <string name="conciergerie">Conciergerie</string>
+    <string name="disneyland_paris">Disneyland Paris</string>
+    <string name="les_invalides">Les Invalides</string>
+    <string name="moulin_rouge">Moulin Rouge</string>
+    <string name="musee_de_l_orangerie">Musee de l_Orangerie</string>
+    <string name="palais_garnier">Palais Garnier</string>
+    <string name="pantheon">Pantheon</string>
+    <string name="pere_lachaise_cemetery">Pere Lachaise Cemetery</string>
+    <string name="place_des_vosges">Place des Vosges </string>
+    <string name="seine_cruise">Seine Cruise</string>
+
+    <!-- Park -->
+    <string name="parc_des_buttes_chaumont">Parc des Buttes Chaumont</string>
+    <string name="jardin_des_champs_elysees">Jardin des Champs-Élysées</string>
+    <string name="jardin_des_plantes">Jardin des Plantes</string>
+    <string name="lac_daumesnil_bois_de_vincennes">Lac Daumesnil, Bois de Vincennes</string>
+    <string name="lac_inférieur_bois_de_boulogne">Lac inférieur, Bois de Boulogne</string>
+    <string name="parc_monceau">Parc Monceau</string>
+    <string name="champ_de_mars">Champ de Mars</string>
+    <string name="jardin_du_luxembourg">Jardin du Luxembourg</string>
+    <string name="cimetière_du_Père_lachaise">Cimetière du Père Lachaise</string>
+    <string name="jardin_des_tuileries">Jardin des Tuileries</string>
+
+
+</resources>
